@@ -16,7 +16,7 @@ In this study, we establish a benchmark and a baseline approach for Multimodal r
 
 <p align="center">
     <img src="assets/figure-structure-1.jpg" width="80%"></a> <br>
-    The architecture of the ChatterBox model. 
+    The architecture detail of the ChatterBox model. 
 </p>
 
 
