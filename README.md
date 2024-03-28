@@ -110,12 +110,6 @@ python startup_stage2.py  # stage2
 
 
 
-## Evaluation
-
-See details at [evaluation](evaluation/readme.md).
-
-
-
 ## Acknowledgment
 
 This project is based on LLaVA ([paper](https://arxiv.org/abs/2304.08485), [code](https://github.com/haotian-liu/LLaVA)), LISA ([paper](https://arxiv.org/abs/2308.00692), [code](https://github.com/dvlab-research/LISA)), GPT4RoI ([paper](https://arxiv.org/abs/2307.03601), [code](https://github.com/jshilong/GPT4RoI)), thanks for their excellent works.
