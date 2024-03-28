@@ -20,14 +20,6 @@ In this study, we establish a benchmark and a baseline approach for Multimodal r
 </p>
 
 
-
-## Contents
-
-- [Install](#install)
-- [Train](#train)
-- [Evaluation](#evaluation)
-- [Demo](#demo)
-
 ## Install
 
 1. Clone this repository and navigate to ChatterBox folder
